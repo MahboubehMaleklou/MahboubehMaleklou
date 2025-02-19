@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MahboubehMaleklou
 - 👀 I’m interested in coding specially in angular
-- 🌱 I’m currently learning PWA and ngRx and rxJS
 - 💞️ I’m looking to collaborate on huge projects with new challanges
 
 <!---
